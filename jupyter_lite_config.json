@@ -1,0 +1,8 @@
+{
+    "XeusPythonEnv": {
+        "packages": [
+            "datascience",
+            "otter-grader"
+        ]
+    }
+}
