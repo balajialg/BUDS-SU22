@@ -2,7 +2,8 @@
     "XeusPythonEnv": {
         "packages": [
             "datascience",
-            "otter-grader"
+            "otter-grader",
+            "ipywidgets"
         ]
     }
 }
