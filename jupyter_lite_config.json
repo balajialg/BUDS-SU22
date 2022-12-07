@@ -2,7 +2,20 @@
     "XeusPythonEnv": {
         "packages": [
             "datascience",
-            "ipywidgets"
+            "ipywidgets",
+            "numpy",
+            "matplotlib",
+            "scipy",
+            "ipympl",
+            "pandas",
+           "statsmodels",
+           "scikit-learn",
+           "seaborn",
+           "bokeh",
+           "decorator", 
+           "networkx",
+            "spacy",
+            "nltk"
         ]
     }
 }
