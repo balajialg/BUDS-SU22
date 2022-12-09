@@ -42,7 +42,18 @@
 "pysoundfile",
 
 # ds100, spring 2022, #3208
-"python-kaleido"
+"python-kaleido",
+            
+# https://github.com/berkeley-dsep-infra/datahub/issues/3305, spring 2022
+"fenics",
+"mshr",
+
+# https://github.com/berkeley-dsep-infra/datahub/issues/3324, spring 2022
+"gdown",
+
+# LBL summer research internship in materials informatics. Jupyter Book curriculum at https://enze-chen.github.io/mi-book/
+"pymatgen",
+"matminer"
         ]
     }
 }
