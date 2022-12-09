@@ -16,6 +16,8 @@
            "networkx",
             
            # new set of packages
+            # "spacy",
+            # "nltk",
            
             # data 88e, fall 2022, issue 3915
             "yfinance",
