@@ -10,13 +10,24 @@
             "pandas",
            "statsmodels",
            "scikit-learn",
-            
-            # new set of packages
             "seaborn",
            "bokeh",
            "decorator", 
-           "networkx"      
+           "networkx",
             
+           # new set of packages
+           
+            # data 88e, fall 2022, issue 3915
+            "yfinance",
+            "quantstats",
+# dlab, dssj, summer 2022, issues 3472, 3473, 3474
+             "gensim",
+    # LS 22, Spring 2023
+             "spacy-model-en_core_web_sm",
+              "spacy-model-en_core_web",
+              "spacy-model-en_core_web_md",
+              "spacy-model-en_core_web_trf",
+              "lemminflect"            
         ]
     }
 }
