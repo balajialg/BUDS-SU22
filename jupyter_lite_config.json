@@ -9,7 +9,14 @@
             "ipympl",
             "pandas",
            "statsmodels",
-           "scikit-learn"
+           "scikit-learn",
+            
+            # new set of packages
+            "seaborn",
+           "bokeh",
+           "decorator", 
+           "networkx"      
+            
         ]
     }
 }
