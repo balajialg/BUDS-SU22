@@ -4,7 +4,12 @@
             "datascience",
             "ipywidgets",
             "numpy",
-            "matplotlib"
+            "matplotlib",
+            "scipy",
+            "ipympl",
+            "pandas",
+           "statsmodels",
+           "scikit-learn"
         ]
     }
 }
