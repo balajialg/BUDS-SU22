@@ -53,7 +53,14 @@
 
 # LBL summer research internship in materials informatics. Jupyter Book curriculum at https://enze-chen.github.io/mi-book/
 "pymatgen",
-"matminer"
+"matminer",
+           
+# data101, Fall 2022, https://github.com/berkeley-dsep-infra/datahub/issues/3646
+"pgspecial",
+
+# https://github.com/berkeley-dsep-infra/datahub/issues/3939 data101, fall 2022
+"dbt-postgres",
+"dbt-bigquery"            
         ]
     }
 }
