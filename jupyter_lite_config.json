@@ -27,7 +27,22 @@
               "spacy-model-en_core_web",
               "spacy-model-en_core_web_md",
               "spacy-model-en_core_web_trf",
-              "lemminflect"            
+              "lemminflect",
+            
+            # EPS88, data100
+# https://github.com/berkeley-dsep-infra/datahub/issues/1796
+# https://github.com/berkeley-dsep-infra/datahub/issues/2824
+"shapely",
+"cartopy",
+
+# ls 88-3; neuro
+"pillow",
+
+# music 30, spring 2022, #3180
+"pysoundfile",
+
+# ds100, spring 2022, #3208
+"python-kaleido"
         ]
     }
 }
