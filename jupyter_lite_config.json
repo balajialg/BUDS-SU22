@@ -62,7 +62,8 @@
 
 # https://github.com/berkeley-dsep-infra/datahub/issues/3939 data101, fall 2022
 "dbt-postgres",
-"dbt-bigquery"            
+"dbt-bigquery",
+ "jupyter-offlinenotebook"
         ]
     }
 }
