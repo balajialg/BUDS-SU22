@@ -64,7 +64,7 @@
 "dbt-postgres",
 "dbt-bigquery",
 "jupyter-offlinenotebook",
-    "otter-grader"
+    "otter-grader=4.2.1"
         ]
     }
 }
