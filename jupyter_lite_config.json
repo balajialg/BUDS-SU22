@@ -8,63 +8,45 @@
             "scipy",
             "ipympl",
             "pandas",
-           "statsmodels",
-           "scikit-learn",
+            "statsmodels",
+            "scikit-learn",
             "seaborn",
-           "bokeh",
-           "decorator", 
-           "networkx",
-            
-           # new set of packages
+            "bokeh",
+            "decorator", 
+            "networkx",
              "spacy",
              "nltk",
-           
-            # data 88e, fall 2022, issue 3915
-            "yfinance",
-            "quantstats",
-# dlab, dssj, summer 2022, issues 3472, 3473, 3474
+             "yfinance",
+             "quantstats",
              "gensim",
-    # LS 22, Spring 2023
              "spacy-model-en_core_web_sm",
               "spacy-model-en_core_web",
               "spacy-model-en_core_web_md",
               "spacy-model-en_core_web_trf",
               "lemminflect",
-            
-            # EPS88, data100
-# https://github.com/berkeley-dsep-infra/datahub/issues/1796
-# https://github.com/berkeley-dsep-infra/datahub/issues/2824
-"shapely",
-"cartopy",
-
-# ls 88-3; neuro
-"pillow",
-
-# music 30, spring 2022, #3180
-"pysoundfile",
-
-# ds100, spring 2022, #3208
-"python-kaleido",
-            
-# https://github.com/berkeley-dsep-infra/datahub/issues/3305, spring 2022
-"fenics",
-"mshr",
-
-# https://github.com/berkeley-dsep-infra/datahub/issues/3324, spring 2022
-"gdown",
-
-# LBL summer research internship in materials informatics. Jupyter Book curriculum at https://enze-chen.github.io/mi-book/
-"pymatgen",
-"matminer",
-           
-# data101, Fall 2022, https://github.com/berkeley-dsep-infra/datahub/issues/3646
-"pgspecial",
-
-# https://github.com/berkeley-dsep-infra/datahub/issues/3939 data101, fall 2022
-"dbt-postgres",
-"dbt-bigquery",
-"jupyter-offlinenotebook",
-    "otter-grader=4.2.1"
+               "otter-grader=4.2.1"
+                "shapely",
+                "cartopy",
+                # ls 88-3; neuro
+                "pillow",
+                # music 30, spring 2022, #3180
+                "pysoundfile",
+                # ds100, spring 2022, #3208
+                "python-kaleido",
+                # https://github.com/berkeley-dsep-infra/datahub/issues/3305, spring 2022
+                "fenics",
+                "mshr",
+                # https://github.com/berkeley-dsep-infra/datahub/issues/3324, spring 2022
+                "gdown",
+                # LBL summer research internship in materials informatics. Jupyter Book curriculum at https://enze-chen.github.io/mi-book/
+                "pymatgen",
+                "matminer",   
+                # data101, Fall 2022, https://github.com/berkeley-dsep-infra/datahub/issues/3646
+                "pgspecial",
+                # https://github.com/berkeley-dsep-infra/datahub/issues/3939 data101, fall 2022
+                "dbt-postgres",
+                "dbt-bigquery",
+                "jupyter-offlinenotebook"
         ]
     }
 }
