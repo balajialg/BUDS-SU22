@@ -27,23 +27,15 @@
                "otter-grader=4.2.1",
                 "shapely",
                 "cartopy",
-                # ls 88-3; neuro
                 "pillow",
-                # music 30, spring 2022, #3180
                 "pysoundfile",
-                # ds100, spring 2022, #3208
                 "python-kaleido",
-                # https://github.com/berkeley-dsep-infra/datahub/issues/3305, spring 2022
                 "fenics",
                 "mshr",
-                # https://github.com/berkeley-dsep-infra/datahub/issues/3324, spring 2022
                 "gdown",
-                # LBL summer research internship in materials informatics. Jupyter Book curriculum at https://enze-chen.github.io/mi-book/
-                "pymatgen",
-                "matminer",   
-                # data101, Fall 2022, https://github.com/berkeley-dsep-infra/datahub/issues/3646
+                 "pymatgen",
+                "matminer",
                 "pgspecial",
-                # https://github.com/berkeley-dsep-infra/datahub/issues/3939 data101, fall 2022
                 "dbt-postgres",
                 "dbt-bigquery",
                 "jupyter-offlinenotebook"
