@@ -24,7 +24,7 @@
               "spacy-model-en_core_web_md",
               "spacy-model-en_core_web_trf",
               "lemminflect",
-               "otter-grader=4.2.1"
+               "otter-grader=4.2.1",
                 "shapely",
                 "cartopy",
                 # ls 88-3; neuro
